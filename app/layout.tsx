@@ -31,6 +31,11 @@ export const metadata: Metadata = {
     "gestão criativa",
     "inteligência artificial",
   ],
+  icons: {
+    icon: "/brand/conclave-logo.png",
+    shortcut: "/brand/conclave-logo.png",
+    apple: "/brand/conclave-logo.png",
+  },
   openGraph: {
     title: "Conclave | A nova infraestrutura criativa",
     description:
